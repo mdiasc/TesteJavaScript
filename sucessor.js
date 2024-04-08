@@ -1,4 +1,4 @@
-var numero=parseInt(prompt("Diggite um número"));
+var numero=parseInt(prompt("Digite um número"));
 
 var sucessor=(numero + 1);
 
