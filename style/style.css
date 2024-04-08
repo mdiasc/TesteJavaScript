@@ -1,0 +1,22 @@
+*{
+    margin: 50px;
+}
+button{
+    border-radius: 4px;
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    align-items: center;
+}
+img{
+    width: 150px;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #990000;
+}
